@@ -1,0 +1,13 @@
+/* .ytp-fullscreen .html5-video-container video {
+  width: 2550px !important;
+  height: 1265px !important;
+  height: 1650px !important;
+  left: 10px !important;
+  top: -290px !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+  overflow: hidden !important;
+} */
+.ytp-ce-video, .ytp-ce-element {
+  display: none !important;
+}
